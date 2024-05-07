@@ -1,1 +1,4 @@
-
+- RU
+- Чтобы получить данные о другом городе, нужно написать название города на английском ("Moscow" или "Busan"), так данные будут корректны.
+- EN
+- To get data about another city, you should write the name of the city in English (“Moscow” or “Busan”), so the data will be correct.
