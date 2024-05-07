@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=KoHo:wght@400;500;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, :root {
+  @apply w-full h-full flex justify-center items-center main-gradient text-zinc-800
+}
+
+.main-gradient {
+  @apply bg-[#191919];
+}
+
+.koho-regular {
+  font-family: "KoHo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.koho-medium {
+  font-family: "KoHo", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.koho-semibold {
+  font-family: "KoHo", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}

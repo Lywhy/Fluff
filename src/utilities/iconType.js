@@ -1,0 +1,28 @@
+const IconType = {
+    CLEAR_SKY_DAY: 'Clear Sky day',
+    CLEAR_SKY_NIGHT: 'Clear Sky night',
+    MAINLY_CLEAR_DAY: 'Mainly Clear day',
+    MAINLY_CLEAR_NIGHT: 'Mainly Clear night',
+    PARTLY_CLOUDY: 'Partly Cloudy n/a',
+    OVERCAST: 'Overcast',
+    FOG_DAY: 'Fog day',
+    FOG_NIGHT: 'Fog night',
+    DEPOSITING_RIME_FOG: 'Depositing Fog n/a',
+    LIGHT_DRIZZLE_DAY: 'Drizzle Light day',
+    LIGHT_DRIZZLE_NIGHT: 'Drizzle Light night',
+    MODERATE_DRIZZLE: 'Drizzle Moderate n/a',
+    LIGHT_RAIN_DAY: 'Light Rain day',
+    LIGHT_RAIN_NIGHT: 'Light Rain night',
+    MODERATE_RAIN: 'Moderate Rain n/a',
+    HEAVY_RAIN: 'Heavy Rain n/a',
+    LIGHT_SNOWFALL_DAY: 'Light Snowfall day',
+    LIGHT_SNOWFALL_NIGHT: 'Light Snowfall night',
+    MODERATE_SNOWFALL: 'Moderate Snowfall n/a',
+    HEAVY_SNOWFALL: 'Heavy Snowfall n/a',
+    LIGHT_MIX_DAY: 'Light Mix day',
+    LIGHT_MIX_NIGHT: 'Light Mix night',
+    HEAVY_MIX: 'Heavy Mix n/a',
+    THUNDERSTORM: 'Thunderstorm',
+    STORM_SHOWERS: 'Slight Hail n/a'
+}
+export default IconType
